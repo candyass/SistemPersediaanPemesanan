@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SistemPersediaanPemesanan</string>
+    <string name="app_title">CV.DewiJaya</string>
+    <string name="title_profil">Profil</string>
+    <string name="title_pemesanan">Pemesanan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>
